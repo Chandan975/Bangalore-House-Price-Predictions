@@ -15,7 +15,7 @@
 
 ---
 
- >**WEB APPLICATION - https://bangalorehousepriceprediction.herokuapp.com**
+ >**WEB APPLICATION -
 
 
 ---
